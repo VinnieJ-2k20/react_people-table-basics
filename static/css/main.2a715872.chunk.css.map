@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,wBAA0B,CAF5B,YAKI,oBAAqB,CACtB,cAID,wBAAyB","file":"main.2a715872.chunk.css","sourcesContent":[".logo {\n  border-radius: 8px;\n  transition: transform 0.3s;\n\n  &:hover {\n    transform: scale(1.2);\n  }\n}\n\n.people-table {\n  border-collapse: collapse;\n}\n"]}
